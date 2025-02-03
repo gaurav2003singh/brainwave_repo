@@ -1,5 +1,5 @@
 
-// import {background }from "./background.jpg";
+
 // import {
 //     benefitIcon1,
 //     benefitIcon2,
